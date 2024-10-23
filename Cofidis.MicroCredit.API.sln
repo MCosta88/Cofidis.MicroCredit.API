@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofidis.MicroCredit.API", "Cofidis.MicroCredit.API\Cofidis.MicroCredit.API.csproj", "{09286934-BD2C-49CC-8B21-77F640DDC6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[External]CMD.API", "[External]CMD.API\[External]CMD.API.csproj", "{521D2B81-063A-44C9-90A8-FAFA9D320108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofidis.MicroCredit.ViewModel", "Cofidis.MicroCredit.ViewModel\Cofidis.MicroCredit.ViewModel.csproj", "{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofidis.MicroCredit.Data", "Cofidis.MicroCredit.Data\Cofidis.MicroCredit.Data.csproj", "{2911C9FB-2417-4982-A05F-EAF846E0649B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofidis.MicroCredit.Services", "Cofidis.MicroCredit.Services\Cofidis.MicroCredit.Services.csproj", "{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofidis.MicroCredit.Manager", "Cofidis.MicroCredit.Manager\Cofidis.MicroCredit.Manager.csproj", "{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofidis.MicroCredit.Tests", "Cofidis.MicroCredit.Tests\Cofidis.MicroCredit.Tests.csproj", "{71ABC78E-0318-4338-A5A6-E9691F189C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09286934-BD2C-49CC-8B21-77F640DDC6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09286934-BD2C-49CC-8B21-77F640DDC6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09286934-BD2C-49CC-8B21-77F640DDC6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09286934-BD2C-49CC-8B21-77F640DDC6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521D2B81-063A-44C9-90A8-FAFA9D320108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521D2B81-063A-44C9-90A8-FAFA9D320108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521D2B81-063A-44C9-90A8-FAFA9D320108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521D2B81-063A-44C9-90A8-FAFA9D320108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2911C9FB-2417-4982-A05F-EAF846E0649B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2911C9FB-2417-4982-A05F-EAF846E0649B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2911C9FB-2417-4982-A05F-EAF846E0649B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2911C9FB-2417-4982-A05F-EAF846E0649B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71ABC78E-0318-4338-A5A6-E9691F189C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71ABC78E-0318-4338-A5A6-E9691F189C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71ABC78E-0318-4338-A5A6-E9691F189C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71ABC78E-0318-4338-A5A6-E9691F189C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12FAC925-3495-42A8-878D-8C7ED1EC9B84}
+	EndGlobalSection
+EndGlobal

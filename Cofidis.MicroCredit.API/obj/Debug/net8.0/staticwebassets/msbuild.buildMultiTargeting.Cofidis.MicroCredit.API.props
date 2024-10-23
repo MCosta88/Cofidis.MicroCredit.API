@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cofidis.MicroCredit.API.props" />
+</Project>

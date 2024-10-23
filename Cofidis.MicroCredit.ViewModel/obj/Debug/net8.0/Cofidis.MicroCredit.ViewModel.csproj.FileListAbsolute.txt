@@ -1,0 +1,12 @@
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\bin\Debug\net8.0\Cofidis.MicroCredit.ViewModel.deps.json
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\bin\Debug\net8.0\Cofidis.MicroCredit.ViewModel.dll
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\bin\Debug\net8.0\Cofidis.MicroCredit.ViewModel.pdb
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.csproj.AssemblyReference.cache
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.AssemblyInfoInputs.cache
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.AssemblyInfo.cs
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.dll
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\refint\Cofidis.MicroCredit.ViewModel.dll
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\Cofidis.MicroCredit.ViewModel.pdb
+C:\Users\mazevedo\OneDrive - Fresenius Medical Care\Pessoal\Cofidis\Cofidis.MicroCredit.API\Cofidis.MicroCredit.API\Cofidis.MicroCredit.ViewModel\obj\Debug\net8.0\ref\Cofidis.MicroCredit.ViewModel.dll

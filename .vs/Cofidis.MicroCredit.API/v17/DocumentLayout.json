@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\interfaces\\imicrocreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\interfaces\\imicrocreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\models\\grantingcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\models\\grantingcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\services\\microcreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\services\\microcreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\interfaces\\imicrocreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\interfaces\\imicrocreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\dbcontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\dbcontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521D2B81-063A-44C9-90A8-FAFA9D320108}|[External]CMD.API\\[External]CMD.API.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\[external]cmd.api\\controllers\\cmdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521D2B81-063A-44C9-90A8-FAFA9D320108}|[External]CMD.API\\[External]CMD.API.csproj|solutionrelative:[external]cmd.api\\controllers\\cmdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521D2B81-063A-44C9-90A8-FAFA9D320108}|[External]CMD.API\\[External]CMD.API.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\[external]cmd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521D2B81-063A-44C9-90A8-FAFA9D320108}|[External]CMD.API\\[External]CMD.API.csproj|solutionrelative:[external]cmd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521D2B81-063A-44C9-90A8-FAFA9D320108}|[External]CMD.API\\[External]CMD.API.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\[external]cmd.api\\services\\cmdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521D2B81-063A-44C9-90A8-FAFA9D320108}|[External]CMD.API\\[External]CMD.API.csproj|solutionrelative:[external]cmd.api\\services\\cmdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09286934-BD2C-49CC-8B21-77F640DDC6A4}|Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09286934-BD2C-49CC-8B21-77F640DDC6A4}|Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API.csproj|solutionrelative:cofidis.microcredit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.manager\\mapping\\clientusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|solutionrelative:cofidis.microcredit.manager\\mapping\\clientusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\repository\\microcreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\repository\\microcreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.manager\\management\\microcreditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|solutionrelative:cofidis.microcredit.manager\\management\\microcreditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\services\\microcreditvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\services\\microcreditvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\interfaces\\imicrocreditvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\interfaces\\imicrocreditvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\interfaces\\ihttpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\interfaces\\ihttpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09286934-BD2C-49CC-8B21-77F640DDC6A4}|Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.api\\controllers\\microcreditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09286934-BD2C-49CC-8B21-77F640DDC6A4}|Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API.csproj|solutionrelative:cofidis.microcredit.api\\controllers\\microcreditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71ABC78E-0318-4338-A5A6-E9691F189C16}|Cofidis.MicroCredit.Tests\\Cofidis.MicroCredit.Tests.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.tests\\controllers\\microcreditcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ABC78E-0318-4338-A5A6-E9691F189C16}|Cofidis.MicroCredit.Tests\\Cofidis.MicroCredit.Tests.csproj|solutionrelative:cofidis.microcredit.tests\\controllers\\microcreditcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\constants\\constantsriskmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\constants\\constantsriskmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09286934-BD2C-49CC-8B21-77F640DDC6A4}|Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09286934-BD2C-49CC-8B21-77F640DDC6A4}|Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API.csproj|solutionrelative:cofidis.microcredit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71ABC78E-0318-4338-A5A6-E9691F189C16}|Cofidis.MicroCredit.Tests\\Cofidis.MicroCredit.Tests.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ABC78E-0318-4338-A5A6-E9691F189C16}|Cofidis.MicroCredit.Tests\\Cofidis.MicroCredit.Tests.csproj|solutionrelative:cofidis.microcredit.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.manager\\interfaces\\imicrocreditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|solutionrelative:cofidis.microcredit.manager\\interfaces\\imicrocreditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.manager\\management\\httpclientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA372F-CEA8-4BC0-8EDA-24E65AB5D73A}|Cofidis.MicroCredit.Manager\\Cofidis.MicroCredit.Manager.csproj|solutionrelative:cofidis.microcredit.manager\\management\\httpclientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.services\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7EF752-A614-414E-885F-B2D9B2BEEB1C}|Cofidis.MicroCredit.Services\\Cofidis.MicroCredit.Services.csproj|solutionrelative:cofidis.microcredit.services\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}|Cofidis.MicroCredit.ViewModel\\Cofidis.MicroCredit.ViewModel.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.viewmodel\\microcredit\\getgrantingmicrocreditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FB405C-4C37-4984-87C9-E4CB7FA997F4}|Cofidis.MicroCredit.ViewModel\\Cofidis.MicroCredit.ViewModel.csproj|solutionrelative:cofidis.microcredit.viewmodel\\microcredit\\getgrantingmicrocreditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\models\\clientloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\models\\clientloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\models\\clientuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\models\\clientuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|c:\\users\\mazevedo\\onedrive - fresenius medical care\\pessoal\\cofidis\\cofidis.microcredit.api\\cofidis.microcredit.api\\cofidis.microcredit.data\\models\\external\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2911C9FB-2417-4982-A05F-EAF846E0649B}|Cofidis.MicroCredit.Data\\Cofidis.MicroCredit.Data.csproj|solutionrelative:cofidis.microcredit.data\\models\\external\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrantingCredit.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\GrantingCredit.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\Models\\GrantingCredit.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\GrantingCredit.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\Models\\GrantingCredit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:46:07.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientUserMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Mapping\\ClientUserMappingProfile.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Manager\\Mapping\\ClientUserMappingProfile.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Mapping\\ClientUserMappingProfile.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Manager\\Mapping\\ClientUserMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:05:33.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CMDService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\[External]CMD.API\\Services\\CMDService.cs",
+              "RelativeDocumentMoniker": "[External]CMD.API\\Services\\CMDService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\[External]CMD.API\\Services\\CMDService.cs",
+              "RelativeToolTip": "[External]CMD.API\\Services\\CMDService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:12:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHttpClientService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Interfaces\\IHttpClientService.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Interfaces\\IHttpClientService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Interfaces\\IHttpClientService.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Interfaces\\IHttpClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:36:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMicroCreditValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditValidatorService.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditValidatorService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditValidatorService.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:36:13.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMicroCreditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Interfaces\\IMicroCreditRepository.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\Interfaces\\IMicroCreditRepository.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Interfaces\\IMicroCreditRepository.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\Interfaces\\IMicroCreditRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:07:53.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MicroCreditValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Services\\MicroCreditValidatorService.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Services\\MicroCreditValidatorService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Services\\MicroCreditValidatorService.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Services\\MicroCreditValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:43:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMDController.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\[External]CMD.API\\Controllers\\CMDController.cs",
+              "RelativeDocumentMoniker": "[External]CMD.API\\Controllers\\CMDController.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\[External]CMD.API\\Controllers\\CMDController.cs",
+              "RelativeToolTip": "[External]CMD.API\\Controllers\\CMDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:13:09.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\DbContext\\DataContext.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\DbContext\\DataContext.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\DbContext\\DataContext.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\DbContext\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:15:28.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MicroCreditService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Services\\MicroCreditService.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Services\\MicroCreditService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Services\\MicroCreditService.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Services\\MicroCreditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:39:35.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMicroCreditService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditService.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditService.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Interfaces\\IMicroCreditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:35:56.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MicroCreditManager.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Management\\MicroCreditManager.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Manager\\Management\\MicroCreditManager.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Management\\MicroCreditManager.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Manager\\Management\\MicroCreditManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:10:54.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\[External]CMD.API\\Program.cs",
+              "RelativeDocumentMoniker": "[External]CMD.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\[External]CMD.API\\Program.cs",
+              "RelativeToolTip": "[External]CMD.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:40:34.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Program.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Program.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.API\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:23:39.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MicroCreditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Repository\\MicroCreditRepository.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\Repository\\MicroCreditRepository.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Repository\\MicroCreditRepository.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\Repository\\MicroCreditRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:05:03.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConstantsRiskManagement.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Constants\\ConstantsRiskManagement.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Constants\\ConstantsRiskManagement.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Constants\\ConstantsRiskManagement.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Constants\\ConstantsRiskManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:31:13.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMicroCreditManager.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Interfaces\\IMicroCreditManager.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Manager\\Interfaces\\IMicroCreditManager.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Interfaces\\IMicroCreditManager.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Manager\\Interfaces\\IMicroCreditManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:16:15.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:18:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MicroCreditControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Tests\\Controllers\\MicroCreditControllerTests.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Tests\\Controllers\\MicroCreditControllerTests.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Tests\\Controllers\\MicroCreditControllerTests.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Tests\\Controllers\\MicroCreditControllerTests.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:19:57.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cofidis.MicroCredit.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T09:21:57.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MicroCreditController.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Controllers\\MicroCreditController.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.API\\Controllers\\MicroCreditController.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Controllers\\MicroCreditController.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.API\\Controllers\\MicroCreditController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCgAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:25:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HttpClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Management\\HttpClientManager.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Manager\\Management\\HttpClientManager.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Manager\\Management\\HttpClientManager.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Manager\\Management\\HttpClientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:10:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientLoan.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\ClientLoan.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\Models\\ClientLoan.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\ClientLoan.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\Models\\ClientLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:11:48.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\External\\User.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\Models\\External\\User.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\External\\User.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\Models\\External\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:09:48.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetGrantingMicroCreditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.ViewModel\\MicroCredit\\GetGrantingMicroCreditViewModel.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.ViewModel\\MicroCredit\\GetGrantingMicroCreditViewModel.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.ViewModel\\MicroCredit\\GetGrantingMicroCreditViewModel.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.ViewModel\\MicroCredit\\GetGrantingMicroCreditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:08:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Services\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Services\\Services\\HttpClientService.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Services\\Services\\HttpClientService.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Services\\Services\\HttpClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:45:38.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientUser.cs",
+              "DocumentMoniker": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\ClientUser.cs",
+              "RelativeDocumentMoniker": "Cofidis.MicroCredit.Data\\Models\\ClientUser.cs",
+              "ToolTip": "C:\\Users\\mazevedo\\OneDrive - Fresenius Medical Care\\Pessoal\\Cofidis\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.API\\Cofidis.MicroCredit.Data\\Models\\ClientUser.cs",
+              "RelativeToolTip": "Cofidis.MicroCredit.Data\\Models\\ClientUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:23:30.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

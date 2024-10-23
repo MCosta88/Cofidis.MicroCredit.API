@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "_External_CMD.API.Controllers.CMDController",
+    "Method": "GetUserByNIF",
+    "RelativePath": "CMD/{nif}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nif",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_External_CMD.API.Models.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

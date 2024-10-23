@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "H1VevL1vx9fAQ6PhYdy00tGtn776Nr86OVsESr0MUjM=",
+  "Source": "Cofidis.MicroCredit.API",
+  "BasePath": "_content/Cofidis.MicroCredit.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

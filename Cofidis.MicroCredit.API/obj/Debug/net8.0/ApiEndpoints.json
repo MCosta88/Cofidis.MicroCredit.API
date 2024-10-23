@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Cofidis.MicroCredit.API.Controllers.MicroCreditController",
+    "Method": "GrantingCredit",
+    "RelativePath": "MicroCredit/GrantingCredit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nif",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "baseSalary",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Cofidis.MicroCredit.ViewModel.MicroCredit.GetGrantingMicroCreditViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GrantingMicroCredit"
+  }
+]
